@@ -1,4 +1,4 @@
-# Gooey Filter Sample
+# Vue3 - Gooey Filter Sample
 
 A very simple example of how to make an effect as if some elements have an attraction of matter.
 
